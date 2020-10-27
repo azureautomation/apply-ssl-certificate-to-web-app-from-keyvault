@@ -1,0 +1,20 @@
+{
+    "Author": "GordonB007",
+    "ContentSize": 3231,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/apply-ssl-certificate-to-web-app-from-keyvault/master/Set-WebAppSSLBindingFromKeyVault.ps1",
+    "DownloadCount": 1127,
+    "Id": "Apply-SSL-Certificate-to-7690a62f",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 98,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-6-4T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Extracts a SSL Certificate out of Azure Keyvault and applies it as a SSL Binding to an Azure Web App.Ideally this script should be used in combination with this script which obtains the SSL Certificate from Lets Encrypt.https://gallery.technet.microsoft.com/scriptcenter/Get-SSL-C",
+    "Title": "Apply SSL Certificate to Web App from Keyvault",
+    "UpdatedDate": "2018-6-4T00:00:00",
+    "Url": "https://github.com/azureautomation/apply-ssl-certificate-to-web-app-from-keyvault",
+    "UserTags": "Web Applications, SSL Certificates, keyvault"
+}
